@@ -1,0 +1,2 @@
+# go-module-package-testing
+ 
