@@ -6,7 +6,7 @@
 
 ```batch
 go mod init github.com/aukgit/go-module-package-testing
-go get github.com/julienschmidt/httprouter/v3
+go get github.com/julienschmidt/httprouter
 go get go.uber.org/zap
 go mod tidy
 ```
