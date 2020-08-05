@@ -6,5 +6,14 @@
 
 ```batch
 go mod init github.com/aukgit/go-module-package-testing
-
+go get github.com/julienschmidt/httprouter/v3
+go get go.uber.org/zap
+go mod tidy
 ```
+
+
+# Shortcuts
+
+- [Ctrl + K] Commit
+- [Alt + F12] Terminals
+- [Alt + 1] Projects
