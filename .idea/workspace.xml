@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0e1c43e-f88e-4bb9-9323-213ee602f785" name="Default Changelist" comment="# Updated packages, added go modules&#10;&#10;- sample code added&#10;&#10;```batch&#10;go mod init github.com/aukgit/go-module-package-testing&#10;go get github.com/julienschmidt/httprouter&#10;go get go.uber.org/zap&#10;go mod tidy&#10;```">
+    <list default="true" id="f0e1c43e-f88e-4bb9-9323-213ee602f785" name="Default Changelist" comment="# Updated and Fixed Code&#10;&#10;- run `localhost:8080/hello/alim`&#10;- run `localhost:8080` will log in console:&#10;   `{&quot;level&quot;:&quot;info&quot;,&quot;ts&quot;:1596650175.2169445,&quot;caller&quot;:&quot;go-module-package-testing/main.go:14&quot;,&quot;msg&quot;:&quot;Success&quot;}&#10;`">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="# Updated packages, added go modules&#10;&#10;- sample code added&#10;&#10;```batch&#10;go mod init github.com/aukgit/go-module-package-testing&#10;go get github.com/julienschmidt/httprouter&#10;go get go.uber.org/zap&#10;go mod tidy&#10;```" />
-    <option name="LAST_COMMIT_MESSAGE" value="# Updated packages, added go modules&#10;&#10;- sample code added&#10;&#10;```batch&#10;go mod init github.com/aukgit/go-module-package-testing&#10;go get github.com/julienschmidt/httprouter&#10;go get go.uber.org/zap&#10;go mod tidy&#10;```" />
+    <MESSAGE value="# Updated and Fixed Code&#10;&#10;- run `localhost:8080/hello/alim`&#10;- run `localhost:8080` will log in console:&#10;   `{&quot;level&quot;:&quot;info&quot;,&quot;ts&quot;:1596650175.2169445,&quot;caller&quot;:&quot;go-module-package-testing/main.go:14&quot;,&quot;msg&quot;:&quot;Success&quot;}&#10;`" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Updated and Fixed Code&#10;&#10;- run `localhost:8080/hello/alim`&#10;- run `localhost:8080` will log in console:&#10;   `{&quot;level&quot;:&quot;info&quot;,&quot;ts&quot;:1596650175.2169445,&quot;caller&quot;:&quot;go-module-package-testing/main.go:14&quot;,&quot;msg&quot;:&quot;Success&quot;}&#10;`" />
   </component>
   <component name="WindowStateProjectService">
     <state x="652" y="272" key="#Go_Modules" timestamp="1596646511543">
